@@ -1,0 +1,3 @@
+package: localhost/go-todo
+import:
+- package: github.com/julienschmidt/httprouter
