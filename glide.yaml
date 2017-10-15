@@ -1,3 +1,6 @@
 package: localhost/go-todo
 import:
-- package: github.com/julienschmidt/httprouter
+- package: github.com/gorilla/mux
+- package: github.com/go-sql-driver/mysql
+- package: github.com/gin-gonic/gin
+- package: github.com/go-xorm/xorm
